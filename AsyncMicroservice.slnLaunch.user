@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ProductAPI\\ProductAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "OrderAPI\\OrderAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "EmailNotificationWehook\\EmailNotificationWehook.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
